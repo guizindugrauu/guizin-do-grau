@@ -1,3 +1,8 @@
+git clone https://github.com/username/username.github.io
+cd guizin.github.io
+git add --all
+git commit -m "Adicionando código HTML inicial"
+git push -u origin main
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
